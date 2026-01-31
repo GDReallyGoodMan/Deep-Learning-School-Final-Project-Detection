@@ -1,0 +1,8 @@
+pandas
+matplotlib
+scikit-learn
+ultralytics
+torch
+Pillow
+requests
+uvicorn
