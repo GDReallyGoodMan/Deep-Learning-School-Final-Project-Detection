@@ -1,11 +1,7 @@
-pandas
 numpy
-matplotlib
-scikit-learn
 ultralytics
 torch
 Pillow
-requests
-uvicorn
 streamlit
 onnxruntime
+opencv-python==4.9.0.80
