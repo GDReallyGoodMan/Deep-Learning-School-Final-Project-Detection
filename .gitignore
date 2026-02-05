@@ -1,3 +1,5 @@
 venv/
 app/storage
 .vscode
+test.py
+test_images/

@@ -1,4 +1,5 @@
 pandas
+numpy
 matplotlib
 scikit-learn
 ultralytics
@@ -6,3 +7,5 @@ torch
 Pillow
 requests
 uvicorn
+streamlit
+onnxruntime
